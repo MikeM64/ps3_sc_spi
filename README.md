@@ -1,7 +1,7 @@
 # ps3_sc_spi
 Quick and dirty SPI decoder for DSView.
 
-![Screenshot](https://github.com/mikem64/ps3_sc_spi/raw/master/images/Screenshot.png)
+![Screenshot](https://github.com/mikem64/ps3_sc_spi/raw/main/Screenshot.png)
 
 # Requirements
 - DSView 1.12 (SigRok currently untested)
