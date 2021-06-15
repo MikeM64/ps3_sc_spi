@@ -86,6 +86,9 @@ class Decoder(srd.Decoder):
     )
     options = ()
 
+    def reset(self):
+        pass
+
     def start(self):
         self.out_ann = self.register(srd.OUTPUT_ANN)
 
